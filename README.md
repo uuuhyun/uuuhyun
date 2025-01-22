@@ -1,6 +1,6 @@
 ## Yoo Hyun Kim | 김유현
 [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/u_hyuuun/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kun012019@inha.edu) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:uuuhyun.kim@gmail.com) 
 
 :school: _Artifitial intelligence Engineering at Inha University_
  
