@@ -1,5 +1,9 @@
 ## Yoo Hyun Kim | 김유현
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Yoo+Hyun+Kim;AI Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
+
 <h3 align="center">📫 Contact 📫</h3>
 <p align="center">
   <a href="https://www.instagram.com/u_hyuuun/"><img src="https://img.shields.io/badge/@u_hyuuun-9c38d1?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align: middle;"/></a>
