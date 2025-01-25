@@ -3,10 +3,11 @@
 <h3 align="center">📫 Contact 📫</h3>
 <p align="center">
   <a href="https://www.instagram.com/u_hyuuun/"><img src="https://img.shields.io/badge/@u_hyuuun-9c38d1?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align: middle;"/></a>
+  <a href="https://velog.io/@uuuhyun"><img src="https://img.shields.io/badge/@uuuhyun-1EBC8F?style=for-the-badge&logo=velog&logoColor=white style="vertical-align: middle;" /></a><br>
   <a href="mailto:uuuhyun.kim@gmail.com"><img src="https://img.shields.io/badge/uuuhyun.kim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;"/></a>
 </p>
 
-<h3 align="center">:school: Inha University, Dept. of Artificial Intelligence Engineering</h3>
+<h3 align="center">🎓 Inha University | 🤖 Dept. of Artificial Intelligence Engineering</h3>
 
 <br>
 
