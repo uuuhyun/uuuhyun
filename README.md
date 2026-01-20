@@ -16,7 +16,7 @@ Feel free to reach out if you have any questions!
 
 ## 🎓 Education
 
-- 2021.03 ~ , Department of Artificial Intelligence Engineering, Inha University
+- 2021.03 ~ , Department of Artificial Intelligence, Inha University
 - 2025.03 ~ , Minor in Economics, Inha University
 
 
@@ -39,11 +39,13 @@ Feel free to reach out if you have any questions!
 
 ## 💼 Experience
 
+- 2026.01 ~ Present UNIST NLP Lab 연구 인턴
+- 2026.01 ~ Present 인하대학교 중앙동아리 INCOM 운영진 (연합동아리 유니코사 담당)
 - 2025.09 ~ 2025.12 2025-2학기 인하대학교 인공지능공학과 3학년 급대표
 - 2025.05 ~ 2025.06 2025-1학기 인하대학교 인공지능공학과 3학년 급대표
-- 2024.12 ~ 2025.08 인하대학교 금융 인공지능 연구실(AIF Lab, 김도국 교수님) 학부연구생
+- 2024.12 ~ 2025.08 인하대학교 금융 인공지능 연구실(AIF Lab) 학부연구생
 - 2024.09 ~ 2024.12 탄소중립 INNOVATION ACADEMY 3기 수료
-- 2024.09 ~ 인하대학교 인공지능공학과 학생회 홍보부
+- 2024.09 ~ 2025.12 인하대학교 인공지능공학과 학생회 홍보부
 
 
 ## 🚀 Projects
