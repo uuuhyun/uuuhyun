@@ -1,24 +1,40 @@
 # Yoo Hyun Kim | 김유현
 
-## 👋 About me?
-Hi, I'm Yoohyun Kim, an AI Developer.
-
-I specialize in Natural Language Processing (NLP) and fine-tuning language models, and I am currently expanding my skills into Computer Vision. With a strong interest in finance, I am also minoring in Economics. This led me to publish a paper titled "Forecasting WTI Oil Prices Based on the TIME-LLM Model."
-
-A key achievement of mine is winning the Grand Prize (Minister of Science and ICT Award) at the 2025 SW-Centric University Digital Competition. For this competition, I successfully repurposed a text generation model for a classification task, which led to outstanding results.
-
-Feel free to reach out if you have any questions!
-
 ## 📫 Contact
 
 <a href="mailto:uuuhyun.kim@gmail.com"><img src="https://img.shields.io/badge/uuuhyun.kim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;"/></a>
 <a href="https://www.instagram.com/u_hyuuun/"><img src="https://img.shields.io/badge/@u_hyuuun-9c38d1?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align: middle;"/></a>
 
+## 👋 About me?
+Hi, I'm Yoohyun Kim, an AI developer. I'm an undergraduate student majoring in Artificial Intelligence.
+
+My main interests are Natural Language Processing (NLP) and fine-tuning language models. I recently started a research internship at UNIST, where I’m also exploring a new research direction: model merging.
+
+One of my key achievements is winning the Grand Prize (Minister of Science and ICT Award) at the 2025 SW-Centric University Digital Competition. In this project, I successfully repurposed a text generation model for a classification task, which led to outstanding results. I have also earned awards in several other AI competitions.
+
+Beyond AI engineering, I’m passionate about building real-world AI-powered services that people can actually use. I'm always excited to collaborate with developers and researchers from diverse backgrounds.
+Feel free to reach out!
+
 ## 🎓 Education
 
-- 2021.03 ~ , Department of Artificial Intelligence, Inha University
-- 2025.03 ~ , Minor in Economics, Inha University
+- Inha University (Mar 2021 – Present) — B.S. in Artificial Intelligence, Minor in Economics
 
+## 📄 Publications
+
+- TIME-LLM 모델 기반의 WTI 유가 예측(2025 한국디지털콘텐츠학회 하계종합학술대회 및 대학생논문경진대회) [PAPER](https://github.com/uuuhyun/Time-LLM/blob/main/TIME-LLM%20%EB%AA%A8%EB%8D%B8%20%EA%B8%B0%EB%B0%98%EC%9D%98%20WTI%20%EC%9C%A0%EA%B0%80%20%EC%98%88%EC%B8%A1.pdf)
+
+## 💼 Experience
+
+### Research Experience
+- 2026.01 ~ Present UNIST NLP Lab 연구 인턴
+- 2024.12 ~ 2025.08 인하대학교 AIF Lab 학부연구생
+
+### Extracurricular Activities
+- 2026.01 ~ Present 인하대학교 중앙동아리 INCOM 운영진 (연합동아리 유니코사 담당)
+- 2025.09 ~ 2025.12 2025-2학기 인하대학교 인공지능공학과 3학년 급대표
+- 2025.05 ~ 2025.06 2025-1학기 인하대학교 인공지능공학과 3학년 급대표
+- 2024.09 ~ 2024.12 탄소중립 INNOVATION ACADEMY 3기 수료
+- 2024.09 ~ 2025.12 인하대학교 인공지능공학과 학생회 홍보부
 
 ## 🏆 Competitions
 
@@ -29,44 +45,14 @@ Feel free to reach out if you have any questions!
 | 2025.07 | 2025 하계종합학술대회 및 대학생논문경진대회 | 디지털 라이프, 융합 기술과 콘텐츠 | 한국디지털콘텐츠학회 | - | 🥉 동상 | [PAPER](https://github.com/uuuhyun/Time-LLM/blob/main/TIME-LLM%20%EB%AA%A8%EB%8D%B8%20%EA%B8%B0%EB%B0%98%EC%9D%98%20WTI%20%EC%9C%A0%EA%B0%80%20%EC%98%88%EC%B8%A1.pdf) |
 | 2024.08 | 2024 인하 인공지능 챌린지 | 한국 경제 기사 분석 및 질의응답 | 인하대학교 인공지능융합연구센터 · BK 산업융합형 차세대 인공지능 혁신인재 교육연구단 | 2/38 | 🥈 최우수상<br>(인하대학교 인공지능융합연구센터장상) | [GITHUB](https://github.com/InJiGong/2024-Inha-AI-Challenge) [DACON](https://dacon.io/competitions/official/236291/overview/description) |
 
-
-## 📄 Papers
-
-- TIME-LLM 모델 기반의 WTI 유가 예측(2025 한국디지털콘텐츠학회 하계종합학술대회 및 대학생논문경진대회)
-  - [PAPER](https://github.com/uuuhyun/Time-LLM/blob/main/TIME-LLM%20%EB%AA%A8%EB%8D%B8%20%EA%B8%B0%EB%B0%98%EC%9D%98%20WTI%20%EC%9C%A0%EA%B0%80%20%EC%98%88%EC%B8%A1.pdf)
-
-
-
-## 💼 Experience
-
-- 2026.01 ~ Present UNIST NLP Lab 연구 인턴
-- 2026.01 ~ Present 인하대학교 중앙동아리 INCOM 운영진 (연합동아리 유니코사 담당)
-- 2025.09 ~ 2025.12 2025-2학기 인하대학교 인공지능공학과 3학년 급대표
-- 2025.05 ~ 2025.06 2025-1학기 인하대학교 인공지능공학과 3학년 급대표
-- 2024.12 ~ 2025.08 인하대학교 금융 인공지능 연구실(AIF Lab) 학부연구생
-- 2024.09 ~ 2024.12 탄소중립 INNOVATION ACADEMY 3기 수료
-- 2024.09 ~ 2025.12 인하대학교 인공지능공학과 학생회 홍보부
-
-
 ## 🚀 Projects
 
 | Date | Project | Topic | Competition | Link |
 | --- | --- | --- | --- |--- |
+| 2026.01 | 킥메이트 | 시각장애인을 위한 좌표 기반 AI 음성 해설 서비스 | K리그-서울시립대 공개 AI 경진대회(Track2 아이디어 개발 부문) | [DACON](https://dacon.io/competitions/official/236648/codeshare/13759) |
 | 2025.03 ~ 2025.07 | MOONG | 다국적 기업 내 채팅 협업툴 | 제1회 MOONG 연합 커넥톤<br>제13회 아랩 액셀러레이팅 프로그램 | - |
 | 2025.06 | Eco Driving Assistance | 친환경 주행 코칭 서비스 |2025 INHA SW NET-ZERO 공동해커톤 | - |
 | 2024.03 ~ 2024.06 | MAKE-THE-MATCH | 스포츠 팀 매칭 서비스 | 24-1 파이썬기반응용프로그래밍 팀프로젝트 | [GITHUB](https://github.com/uuuhyun/Make-The-Match) |
-
-
-
-## 📜 Certifications
-
-| Certificate | Date Acquired |
-| --- | --- |
-| 매경 TEST | 24.01.06 |
-| 비서 1급 | 23.11.24 |
-| 워드프로세서 | 23.11.24 |
-| TESAT | 23.11.18 |
-
 
 ## ✨ Tech Stack
 <div align="center">
