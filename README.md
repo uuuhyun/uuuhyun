@@ -39,7 +39,7 @@ Feel free to reach out!
 | Date | Competition | Topic | Host | Rank | Award | Link |
 | --- | --- | --- | --- | --- | --- | --- |
 | 2026.01 | K리그-서울시립대 공개 AI 경진대회(Track2 아이디어 개발 부문) | K리그 경기 데이터를 활용한 AI 기반 서비스 개발 | 서울시립대 · 한국프로축구연맹 | - | 1차 예선 통과(진행 중) | [DACON](https://dacon.io/competitions/official/236648/codeshare/13759) |
-| 2025.11 | AI 융합 데이터해커톤 (AI VOYAGE 2025) | 바다 위에서 펼쳐지는 세계 최초의 실시간 AI기반 생성형 콘텐츠 해커톤 대회 | SW중심대학협의회 등 | 3/15 | 🥉 부산감성 리얼리티상 | - |
+| 2025.11 | AI 융합 데이터해커톤 (AI VOYAGE 2025) | 바다 위에서 펼쳐지는 세계 최초의 실시간 AI기반 생성형 콘텐츠 해커톤 대회 | SW중심대학협의회 등 | 3/15 | 🥉 부산감성 리얼리티상 | [GITHUB](https://github.com/uuuhyun/AI-VOYAGE-2025) |
 | 2025.09 | 2025 동원 X 카이스트 AI Competition | 소비자 페르소나 기반 동원 신제품 월별 수요 예측 | 동원그룹 · 카이스트 | 5/135 | 🥉 우수상 | [DACON](https://dacon.io/competitions/official/236546/overview/description) |
 | 2025.08 | 2025 SW중심대학 디지털 경진대회 : AI부문 | 생성형 AI(LLM)와 인간 : 텍스트 판별 챌린지 | 과학기술정보통신부 등 | 1/271 | 🏆 대상<br>(과학기술정보통신부장관상) | [GITHUB](https://github.com/AI-IDLE/2025-digital-aigt-detection) [DACON](https://dacon.io/competitions/official/236473/overview/description) |
 | 2025.07 | 2025 하계종합학술대회 및 대학생논문경진대회 | 디지털 라이프, 융합 기술과 콘텐츠 | 한국디지털콘텐츠학회 | - | 🥉 동상 | [PAPER](https://github.com/uuuhyun/Time-LLM/blob/main/TIME-LLM%20%EB%AA%A8%EB%8D%B8%20%EA%B8%B0%EB%B0%98%EC%9D%98%20WTI%20%EC%9C%A0%EA%B0%80%20%EC%98%88%EC%B8%A1.pdf) |
