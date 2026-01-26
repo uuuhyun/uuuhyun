@@ -57,7 +57,7 @@ Feel free to reach out!
 
 | Date | Project | Topic | Competition | Link |
 | --- | --- | --- | --- |--- |
-| 2026.01 | 킥메이트 | 시각장애인을 위한 좌표 기반 AI 음성 해설 서비스 | K리그-서울시립대 공개 AI 경진대회<br>: Track2 아이디어 개발 부문 | [DACON](https://dacon.io/competitions/official/236648/codeshare/13759) |
+| 2026.01 | 킥메이트 | 시각장애인을 위한 좌표 기반 AI 음성 해설 서비스 | K리그-서울시립대 공개 AI 경진대회 : Track2 아이디어 개발 부문 | [DACON](https://dacon.io/competitions/official/236648/codeshare/13759) |
 | 2025.03 ~ 2025.07 | MOONG | 다국적 기업 내 채팅 협업툴 | 제1회 MOONG 연합 커넥톤<br>제13회 아랩 액셀러레이팅 프로그램 | - |
 | 2025.06 | Eco Driving Assistance | 친환경 주행 코칭 서비스 |2025 INHA SW NET-ZERO 공동해커톤 | - |
 | 2024.03 ~ 2024.06 | MAKE-THE-MATCH | 스포츠 팀 매칭 서비스 | 24-1 파이썬기반응용프로그래밍 팀프로젝트 | [GITHUB](https://github.com/uuuhyun/Make-The-Match) |
